@@ -49,6 +49,8 @@ class YiHyeongPark:
 | 🥇 2023.12 | **제21회 임베디드SW경진대회 — 자유공모** | **산업통상자원부장관상 (대상)** |
 | 🥈 2023.08 | 제2회 미래차 자율주행 소프트웨어 경진대회 | 은상 (2위) · 산업통상자원부 |
 | 🥉 2021.09 | KDRA Junior Racing Drone Competition | 동상 (3위) · KDRA |
+| 🥈 2020.11 | 수원정보과학축제 창작드론부분 | 은상 (2위) · 경기도지사상 |
+| 🥉 2019.11 | 수원정보과학축제 창작드론부분 | 은상 (2위) · 경기도지사상 |
 
 ---
 
@@ -203,6 +205,7 @@ class YiHyeongPark:
 
 | Period | Role | Organization |
 |--------|------|--------------|
+| 2026.05–2025.06 | **Mento — Embedded AI Solution Provider** | DACON |
 | 2025.02–2025.08 | **Main Instructor** — AI Solution Provider | Hyundai & Elice Group |
 | 2025.03 | **Main Instructor** — Machine Learning | DACON |
 | 2025.02–2025.08 | **Teaching Assistant** — EDA | Hanyang University |
