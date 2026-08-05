@@ -31,7 +31,7 @@ class YiHyeongPark:
         self.affiliation  = "Hanyang University — M.S. Electrical Engineering (2025–)"
         self.research     = ["Embedded AI", "Automotive Fault Diagnosis",
                              "LLM on Edge", "Sensor Fusion", "Autonomous Driving"]
-        self.languages    = {"Korean": "C2", "English": "C1", "Japanese": "B1"}
+        self.languages    = {"Korean": "C2", "English": "C1"}
         self.stack        = {
             "embedded" : ["C/AVR", "Arduino", "Infineon TC375/AURIX™", "ROS"],
             "ai"       : ["PyTorch", "vLLM", "scikit-learn", "librosa"],
@@ -214,7 +214,7 @@ class YiHyeongPark:
 ## 📜 Certifications
 
 `네트워크관리사 2급` · `디지털포렌식 2급`  
-`초경량비행장치(무인멀티콥터) 4종` · `TOEIC 805` · `OPIc IM3` · `JLPT N2`
+`초경량비행장치(무인멀티콥터) 4종` · `TOEIC 805` · `OPIc IM3`
 
 ---
 
